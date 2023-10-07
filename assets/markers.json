@@ -1,0 +1,14 @@
+{
+    "result": [
+        {
+            "marker_id": "First_Location",
+            "lat": 37.42796133580664,
+            "long": -122.085749655962
+        },
+        {
+            "marker_id": "Second_Location",
+            "lat": 37.424496133580664,
+            "long": -122.085749655962
+        }
+    ]
+}
